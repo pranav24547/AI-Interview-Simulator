@@ -1,0 +1,9 @@
+.sentiment-badge {
+    font-size: 0.8rem;
+    gap: 5px;
+}
+
+.sentiment-score {
+    opacity: 0.7;
+    font-weight: 400;
+}
